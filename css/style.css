@@ -34,6 +34,11 @@ body {
     line-height:50px;
 }
 
+.headerCentered a {
+    color: #fff;
+    text-decoration: none;
+}
+
 .signin {
     /* background-color: rgb(50,163,90); */
      width: 117px;
@@ -150,4 +155,17 @@ body {
     text-align: center;
     line-height: 85px;
     font-size: .8em;
+}
+
+
+.foot a {
+    color: #555;
+}
+
+.foot a:active {
+    color: #333;
+}
+
+.foot a:visited {
+    color: #555;
 }
